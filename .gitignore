@@ -1,2 +1,7 @@
+#Ignore orig directory
 orig/**/*
 
+#Ignore compiled files
+*.att
+*.hfst
+*.ksw.txt
