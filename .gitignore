@@ -1,5 +1,5 @@
 #Ignore orig directory
-orig/**/*
+orig/
 
 #Ignore compiled files
 *.att
