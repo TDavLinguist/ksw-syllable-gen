@@ -1,0 +1,81 @@
+PATTERNS
+(Consonant Medial)[^[W,R,L,G,Y,A]] Vowel Tone
+(Consonant Medial)[^[W,R,L,G,Y,A]] Aa
+
+LEXICON Consonant
+က[W]
+က[R]
+က[L]
+ခ[W]
+ခ[R]
+ခ[L]
+ဂ[A]
+ဃ[W]
+င[A]
+စ[W]
+ဆ[W]
+ဇ[A]
+ည[A]
+ပ[R]
+ပ[L]
+ပ[G]
+ပ[Y]
+ဖ[R]
+ဖ[L]
+ဖ[G]
+ဖ[Y]
+မ[L]
+မ[G]
+မ[Y]
+ဘ[R]
+ဘ[L]
+ဘ[G]
+ဘ[Y]
+တ[W]
+တ[R]
+ထ[R]
+ထ[R]
+ဒ[W]
+ဒ[R]
+န[W]
+ယ[W]
+ရ[W]
+ဝ[A]
+လ[W]
+သ[W]
+သ[R]
+ဟ[A]
+ရှ[A]
+အ[A]
+ဧ[A]
+
+LEXICON Medial
+<w>:ွ[W]
+<l>:ျ[L]
+<r>:ြ[R]
+<y>:ၠ[Y]
+<g>:ှ[G]
+:
+
+LEXICON Vowel
+<i>:ံ
+<ei>:့
+<ai>:ဲ
+<u>:ု
+<e>:ၢ
+<oo>:ူ
+<o>:ိ
+<au>:ီ
+:
+
+LEXICON Tone
+<j>:ၢ်
+<z>:ၤ
+<f>:ၣ်
+<x>:ာ်
+<v>:း
+:
+
+LEXICON Aa
+<aa>:ါ
+

@@ -1,0 +1,61 @@
+PATTERNS
+Consonant Medial Vowel Tone
+Consonant Medial Aa
+
+LEXICON Consonant
+ပ
+ဖ
+သ
+တ
+ထ
+က
+ခ
+အ
+ဘ
+ဒ
+စ
+ဆ
+ဃ
+ဟ
+ဇ
+ဂ
+ဧ
+မ
+န
+ည
+င
+ဝ
+ယ
+လ
+ရ
+
+LEXICON Medial
+<w>:ွ
+<l>:ျ
+<r>:ြ
+<y>:ၠ
+<g>:ှ
+:
+
+LEXICON Vowel
+<i>:ံ
+<ei>:့
+<ai>:ဲ
+<u>:ု
+<e>:ၢ
+<oo>:ူ
+<o>:ိ
+<au>:ီ
+:
+
+LEXICON Tone
+<j>:ၢ်
+<z>:ၤ
+<f>:ၣ်
+<x>:ာ်
+<v>:း
+:
+
+LEXICON Aa
+<aa>:ါ
+
