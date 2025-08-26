@@ -1,5 +1,8 @@
 all: ksw-syllables.ksw.lexd.att ksw-syllables.ksw.hfst ksw-syllables.ksw.txt ksw-syllables-CC0.txt
 
+twol: ksw-syllables-CC0.txt
+	sed 's/\#/\!/g' $^ | sed 's/!!//g' > ksw-syllables-CC0.twol
+
 ksw-syllables.ksw.lexd.att: ksw-syllables.ksw.lexd
 	lexd ksw-syllables.ksw.lexd > $@
 
